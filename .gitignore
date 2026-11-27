@@ -490,3 +490,5 @@ data/
 *.osm.pbf
 *.tif
 *.tiff
+
+tempCodeRunnerFile.*
