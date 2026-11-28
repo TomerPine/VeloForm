@@ -43,5 +43,4 @@ public class GeoTests
 
         Assert.Equal(expected, Geo.PathLength([a, b, c]), precision: 6);
     }
-
 }
